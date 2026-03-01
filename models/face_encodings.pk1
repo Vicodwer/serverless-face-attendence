@@ -1,0 +1,15 @@
+{
+  "Faces": [
+    {
+      "FaceId": "1234abcd-5678",
+      "ExternalImageId": "Santi Gopal",
+      "Confidence": 99.87,
+      "BoundingBox": {
+        "Width": 0.35,
+        "Height": 0.42,
+        "Left": 0.31,
+        "Top": 0.18
+      }
+    }
+  ]
+}
